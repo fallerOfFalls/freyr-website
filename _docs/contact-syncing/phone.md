@@ -2,6 +2,7 @@
 title: Phone
 categories:
 - Contact Syncing
+position: 1
 order: 2
 ---
 

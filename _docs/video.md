@@ -2,6 +2,7 @@
 title: Video
 categories:
 - Media
+position: 5
 order: 2
 ---
 

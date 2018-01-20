@@ -2,6 +2,7 @@
 title: Images
 categories:
 - Media
+position: 6
 order: 1
 ---
 
