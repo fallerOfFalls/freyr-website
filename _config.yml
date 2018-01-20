@@ -1,5 +1,5 @@
 ---
-title: Edition Template
+title: Freyr LePage .com
 timezone: UTC
 collections:
   docs:
@@ -63,3 +63,4 @@ exclude:
 types:
 - minor
 - major
+theme: minima
